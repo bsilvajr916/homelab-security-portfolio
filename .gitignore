@@ -1,0 +1,11 @@
+# Local/private material
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.token
+secrets/
+private/
